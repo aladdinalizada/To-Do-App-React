@@ -1,6 +1,6 @@
 # To-Do-App-React
+<p>TodoApp with React<p/>
 
-TodoApp with React
 <img src="Screenshot.png" alt="Screen Shot" />
 
 # Getting Started with Create React App
